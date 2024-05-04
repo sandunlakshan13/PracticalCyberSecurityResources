@@ -198,7 +198,8 @@ Happy hunting❗️👻
 
 - [https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248](https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248) 
 
-- https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png 
+- https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png
+- https://gowthams.gitbook.io/bughunter-handbook
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
